@@ -211,17 +211,9 @@ The notebook also uses early stopping during neural-network training to help red
 
 ```text
 automotive-fuel-efficiency/
-│
-├── assets/
-│   ├── screenshots/
-│   │   ├── data_overview.png
-│   │   ├── eda_visualization.png
-│   │   └── model_predictions.png
-│   └── diagrams/
-│
-├── Automotive_regression.ipynb
+├── Automotive
+    ├── Automotive_regression.ipynb
 ├── automotive.txt
-├── requirements.txt
 └── README.md
 ```
 
