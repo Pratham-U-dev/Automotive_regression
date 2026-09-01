@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter)](https://jupyter.org/)
 
-[View Notebook](#running-the-notebook) • [Dataset](#dataset) • [Models](#models-and-evaluation) • [Results](#results) • [Author](#author)
+[View Notebook](#running-the-notebook) • [Dataset](#dataset) • [Models](#models-and-evaluation) • [Results](#results) 
 
 </div>
 
@@ -90,25 +90,42 @@ The original calculated fuel-consumption column is renamed to `MPG` during prepr
 
 ## Screenshots
 
-### Data Overview
-
-<div align="center">
-  <img src="assets/screenshots/data_overview.png" alt="Dataset Overview" width="700"/>
-  <p><em>Initial dataset inspection showing column names and sample rows</em></p>
-</div>
-
 ### Exploratory Data Analysis
 
 <div align="center">
-  <img src="assets/screenshots/eda_visualization.png" alt="EDA Visualization" width="700"/>
+  <img width="571" height="418" alt="image" src="https://github.com/user-attachments/assets/f4778f73-6336-405f-985e-882ecbc05851" />
+  <img width="543" height="413" alt="image" src="https://github.com/user-attachments/assets/d3c12fd6-6e52-4216-a1bc-cd4177b1fe30" />
+
+    
+  <img width="560" height="413" alt="image" src="https://github.com/user-attachments/assets/2d6de485-ed45-465d-9840-73de0b0ed7af" />
+
   <p><em>Relationships between vehicle speed, RPM, and fuel efficiency</em></p>
 </div>
 
 ### Model Predictions
 
 <div align="center">
-  <img src="assets/screenshots/model_predictions.png" alt="Model Predictions" width="700"/>
+  <img width="680" height="492" alt="image" src="https://github.com/user-attachments/assets/3a074642-fbe7-4a97-b4a6-3b757d324555" />
+
   <p><em>Actual vs. Predicted MPG values from regression models</em></p>
+</div>
+
+### Learning History
+
+<div align="center">
+  <img width="582" height="413" alt="image" src="https://github.com/user-attachments/assets/609e5d83-4389-49c1-bf2c-5ef77f4e3f0c" />
+
+
+  <p><em>loss vs validation loss</em></p>
+</div>
+
+### 3D plot
+
+<div align="center">
+  <img width="487" height="407" alt="image" src="https://github.com/user-attachments/assets/2d91cc17-6f25-4e4d-8aa5-3ed198af85a8" />
+
+
+  <p><em>Speed vs Acceleration vs RPM</em></p>
 </div>
 
 ---
